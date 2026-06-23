@@ -5,7 +5,7 @@
 当前自定义域名已写入 `CNAME`：
 
 ```txt
-fuyu.com
+fuyu7.com
 ```
 
 ## GitHub Pages 路径
@@ -13,7 +13,7 @@ fuyu.com
 1. 创建 GitHub 仓库，例如 `fuyu-portfolio`。
 2. 将本目录全部文件推送到仓库 `main` 分支根目录。
 3. 在仓库 `Settings -> Pages` 中选择 `Deploy from a branch`，分支选择 `main`，目录选择 `/root`。
-4. 确认 `Custom domain` 为 `fuyu.com`。
+4. 确认 `Custom domain` 为 `fuyu7.com`。
 5. 在域名 DNS 服务商处添加 GitHub Pages 记录：
 
 ```txt
